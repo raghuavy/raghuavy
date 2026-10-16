@@ -5,7 +5,7 @@ Honors Electrical Engineering at the University of Minnesota, College of Science
 
 I build digital hardware and the tools and learning material that help people understand it. My work spans processor architecture, matrix accelerators, FPGA implementation, open-source ASIC flows, and scientific computing. I lead [Stone Arch Silicon](https://github.com/Stone-Arch-Silicon) at UMN and contribute to the [ASIC Network](https://github.com/ASIC-Network).
 
-[LinkedIn](https://www.linkedin.com/in/raghuavy) · [Portfolio source and interactive demos](https://github.com/raghuavy/about_me)
+[Website](https://raghuavy.github.io/) · [LinkedIn](https://www.linkedin.com/in/raghuavy) · [Portfolio source](https://github.com/raghuavy/raghuavy.github.io)
 
 ## Start with these projects
 
@@ -31,7 +31,7 @@ These are team projects. Repository histories credit the people who build them.
 | Area | Repositories |
 | --- | --- |
 | Arithmetic experiments | [Parallel matrix multiplier](https://github.com/raghuavy/Matrix_mult) · [Earlier systolic implementation — archived](https://github.com/raghuavy/systolic_arrays_matrix_mult) · [Club systolic project](https://github.com/Stone-Arch-Silicon/Mat_Mul_Systolic_Arrays) |
-| Numerical formats | [Posit8 Lab — project setup](https://github.com/raghuavy/posit8-lab) · [8-bit posit codec documentation](https://github.com/Stone-Arch-Silicon/8-Bit_Posit) · [Interactive posit lab in my portfolio](https://github.com/raghuavy/about_me) |
+| Numerical formats | [Posit8 Lab — project setup](https://github.com/raghuavy/posit8-lab) · [8-bit posit codec documentation](https://github.com/Stone-Arch-Silicon/8-Bit_Posit) · [Interactive posit lab in my portfolio](https://raghuavy.github.io/work.html#posit) |
 | Learning and exploration | [CUDA exercises](https://github.com/raghuavy/cuda_documentation_self_ref) · [Verilog practice](https://github.com/raghuavy/verilog_training) |
 | Embedded systems | [EE2361 final project](https://github.com/raghuavy/EE2361-final) · [SkyLab collaboration fork](https://github.com/raghuavy/SkyLab) |
 | Scientific computing | [GW-NN experiments](https://github.com/raghuavy/GW-NN) · [Neutrino energy-estimation fork](https://github.com/raghuavy/transformer_EE) · [Aframe research fork](https://github.com/raghuavy/aframe) |
